@@ -1,4 +1,4 @@
 import {ethers} from "./node_modules/ethers-js"
 
-const contract
+const contract = new ethers.contract("CONTRACTADDRESS",NETWORK,X)
 
