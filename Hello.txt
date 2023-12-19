@@ -1,1 +1,9 @@
-Hello World
+This contract includes three functions:
+
+concatenateAndAssign: Takes a number and an additional string, converts the number to a string, concatenates it with the additional string, and assigns the result to the concatenatedString state variable.
+
+toString: Internal function to convert a uint256 number to a string.
+
+concatenateStrings: Internal function to concatenate two strings.
+
+Remember to compile and deploy this contract on a compatible Ethereum blockchain.
