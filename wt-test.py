@@ -11,3 +11,4 @@ minutes = now.minute + 2  # Send the message 2 minutes from now
 kit.sendwhatmsg(phone_number, message, hours, minutes)
 kit.sendwhatmsg(phone_number, message, hours, minutes)
 kit.sendwhatmsg(phone_number, message, hours, minutes)
+kit.sendwhatmsg(phone_number, "HELLO", hours, minutes)
